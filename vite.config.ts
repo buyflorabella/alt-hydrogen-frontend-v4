@@ -27,6 +27,6 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['.tryhydrogen.dev'],
+    allowedHosts: ['traceminerals.boardmansgame.com', '.tryhydrogen.dev'],
   },
 });
